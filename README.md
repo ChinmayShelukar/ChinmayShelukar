@@ -29,11 +29,11 @@
 
 - 👯 I’m looking to collaborate on **Anything Full stack**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Aatom003)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ChinmayShelukar/)
 
 - 💬 Ask me about **MERN stack and Data Structures**
 
-- 📫 How to reach me **anindkmr@gmail.com**
+- 📫 How to reach me **chinmayshelukar3@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qz9m71q0IdAiAkIaVNeAWB4N6n7BkpjK/view?usp=share_link)
 
@@ -41,8 +41,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anind-jha-019173158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anind-jha-019173158" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anind" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinmay-shelukar-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay-shelukar-developer" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Chinmay_Shelukar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chinmay_Shelukar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
